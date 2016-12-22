@@ -1,0 +1,33 @@
+---
+title: "Text Mining and Unsupervised Learning Exploration Using Airbnb Listing and Review Data for New York City"
+output: html_notebook
+---
+####Rachael Dottle
+####Data Mining for the Social Sciences
+####12/21/2016
+
+
+--- 
+##Introduction
+
+In this project, I have chosen to work on an exploratory text mining analysis that looks at Airbnb listing and review data in New York City. The techniques involve importing and setting up a readable document of terms found in the Airbnb review and listing data, to create a corpus of text that can be then analysed using a few text machine learning techniques, including some hierarchical clustering, as well as visualization techniques beyond word clouds. I have chosen this project as a precursor to my QMSS thesis, which will utilize Airbnb data alongside additional data from the NYC Dept. of Planning and the Dept. of Design and Construction, considering the ways in which we can understand, analyze, and predict the changing fabric of New York's living spaces. I am specifically interested in this topic as an urban design, planning and architecture researcher.
+
+The objective of this project is to explore this rich text data on reviews and listings, in order to combine this information with a spatial analysis of Airbnb data. This project is the setting off point for a larger project, 
+
+##Data 
+
+This data comes from [Inside Airbnb](http://insideairbnb.com/about.html), which is "an independent, non-commercial set of tools and data that allows you to explore how Airbnb is really being used in cities around the world" [Inside Airbnb](http://insideairbnb.com/about.html). 
+
+
+```{r}
+
+
+
+```
+
+
+
+```{r}
+
+```
+
